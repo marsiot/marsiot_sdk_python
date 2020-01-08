@@ -1,0 +1,13 @@
+
+#list branch
+git branch
+
+#create branch
+git branch new_branch_name
+
+#switch to new branch
+git checkout new_branch_name
+
+#merge to master
+git checkout master
+git merge new_branch_name
