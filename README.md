@@ -1,3 +1,3 @@
 # marsiot_sdk_python
 
-更多使用方法和帮助请访问www.marsiot.com
+更多使用方法和帮助请访问 http://www.marsiot.com
